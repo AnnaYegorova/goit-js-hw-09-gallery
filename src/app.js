@@ -1,3 +1,4 @@
+import './css/styles.css'
 import galleryItems from "./references/images.js"
 
 const galleryContainer = document.querySelector('.js-gallery')
